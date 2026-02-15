@@ -151,7 +151,7 @@ Drag the `dist` folder to [app.netlify.com/drop](https://app.netlify.com/drop). 
 
 ## Design Specification
 
-The full design spec (data schemas, edge cases, behavioral rules, visual identity, and build strategy) is maintained in `AIer_Design_Specification_v2.docx` in this repository.
+The full design spec (data schemas, edge cases, behavioral rules, visual identity, and build strategy) is maintained in [`AIer_Design_Specification_v2.md`](./AIer_Design_Specification_v2.md) in this repository.
 
 ## Status
 
